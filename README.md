@@ -1,8 +1,4 @@
-下面给你一份 **纯中文、无公式、无特殊符号、可直接放入 GitHub 的 README.md**。
-内容重点放在：**机器人基础（坐标系、位姿表示、FK/IK、URDF、关节类型等） + 仿真 + IL/RL + 操作 + 运动控制**。
-格式完全符合 GitHub 渲染规范，复制即可使用。
 
----
 
 # 🦾 机器人仿真与学习课程（Simulation & Robot Learning Course）
 
